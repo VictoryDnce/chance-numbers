@@ -1,0 +1,1 @@
+belli bir aralıkta olusturulmuş tam sayıları, sınırlı haklarla tahmin etme oyunu.
